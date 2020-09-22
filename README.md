@@ -1,6 +1,6 @@
 ### Hi there, I'm a developer. 👋
 
-### Languages and Tools:
+### Languages and tools:
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -17,6 +17,12 @@
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+</code>](https://www.typescriptlang.org/)
+[<code>
+<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
+</code>](https://sass-lang.com/)
 [<code>
 <img alt="vue" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png">
 </code>](https://cn.vuejs.org/)
